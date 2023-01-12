@@ -91,23 +91,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * - Checking input , numbers in names , blank input.
  * - Could have spent more time writing "No such file" and error message in the like if input or request was bad.
  *
- * ------------------------------------------------------------------------------------------------------
- *
- * Personal
- *
- * The school planning has been in perpetual state of - "we will start doing more java"; never really got there.
- * Then they changed the name of the course to fullstack-developer from java-developer.
- * Probably for the best !
- *
- * No fault on your part;
- *
- * But this was like getting dunked in ice-cold water.
- * This might be entirely "me" problem though, it's a very self-managed course after all.
- *
- *
- * Tim.
- *
- * ------------------------------------------------------------------------------------------------------
  */
 
 @SpringBootApplication
