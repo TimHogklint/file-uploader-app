@@ -1,5 +1,5 @@
 /**
- * Spring-boot course, PLUJUH21 Teknikhägskolan Lund. 2022
+ * Spring-boot course, PLUJUH21 Teknikhögskolan Lund. 2022
  *
  * @author: Tim Högklint
  * @email : tim.hogklint@gmail.com
